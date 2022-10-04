@@ -33,7 +33,7 @@
 
 <br />
 
-![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredscarr&show_icons=true&theme=cobalt)
+![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredscarr&show_icons=true&theme=cobalt&count_private=true)
 
 <br />
 
