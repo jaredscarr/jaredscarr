@@ -9,7 +9,7 @@
 <br />
 
 - 😄 Pronouns: he/him
-- 🔭 Working towards a Bachelor of Science in Computer Science degree.
+- 🔭 Working towards a Bachelor of Science in Computer Science.
 - 🌱 Learning Java.
 
 --------
