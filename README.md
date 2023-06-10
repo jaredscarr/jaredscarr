@@ -12,14 +12,14 @@
 - 🔭 Working towards a Bachelor of Science in Computer Science.
 - 🌱 Learning Java.
 
---------
+<br />
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&theme=tokyonight&border_radius=15&date_format=j%20M%5B%20Y%5D)
 
 <br />
 
 ![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredscarr&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github)
 
 <br />
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&theme=tokyonight&border_radius=15&date_format=j%20M%5B%20Y%5D)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredscarr&layout=compact&theme=vision-friendly-dark&langs_count=10&hide_progress=true) -
