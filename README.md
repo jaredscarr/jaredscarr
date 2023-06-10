@@ -39,4 +39,4 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&theme=tokyonight&border_radius=15&date_format=j%20M%5B%20Y%5D)
 
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredscarr&layout=compact&theme=vision-friendly-dark) --->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredscarr&layout=compact&theme=vision-friendly-dark) -
