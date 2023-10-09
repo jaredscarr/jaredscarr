@@ -12,8 +12,6 @@
 - 🌱 Learning Java and Rust.
 
 <br />
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&border_radius=15&date_format=j%20M%5B%20Y%5D&theme=vue-dark#gh-dark-mode-only)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&border_radius=15&date_format=j%20M%5B%20Y%5D&theme=vue#gh-light-mode-only)
 
