@@ -13,15 +13,13 @@
 
 <br />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&border_radius=15&date_format=j%20M%5B%20Y%5D&theme=vue-dark#gh-dark-mode-only)](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&border_radius=15&date_format=j%20M%5B%20Y%5D&theme=vue-dark#gh-dark-mode-only)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&border_radius=15&date_format=j%20M%5B%20Y%5D&theme=vue#gh-light-mode-only)[(http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&border_radius=15&date_format=j%20M%5B%20Y%5D&theme=vue#gh-light-mode-only)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredscarr&border_radius=15&date_format=j%20M%5B%20Y%5D&theme=transparent)
+
 
 <br />
 
-[![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredscarr&show_icons=true&count_private=true&rank_icon=github&theme=vue-dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=jaredscarr&show_icons=true&count_private=true&rank_icon=github&theme=vue-dark#gh-dark-mode-only)
-[![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredscarr&show_icons=true&count_private=true&rank_icon=github&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=jaredscarr&show_icons=true&count_private=true&rank_icon=github&theme=vue#gh-light-mode-only)
+![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredscarr&show_icons=true&count_private=true&rank_icon=github&theme=transparent)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredscarr&layout=compac&langs_count=10&hide_progress=true&theme=vue-dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredscarr&layout=compac&langs_count=10&hide_progress=true&theme=vue-dark#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredscarr&layout=compac&langs_count=10&hide_progress=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredscarr&layout=compac&langs_count=10&hide_progress=true&theme=vue#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredscarr&layout=compac&langs_count=10&hide_progress=true&theme=transparent)
