@@ -3,13 +3,18 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jaredscarr">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.jaredscarr.com">
+    <img src="https://img.shields.io/badge/jaredscarr.com-B695C0?style=plastic" alt="Personal Website Badge"/>
   </a>
 </div>
-<br />
 
-- 🔭 Working towards a Bachelor of Science in Computer Science (graduation date June 2024).
-- 🌱 Learning Java and Rust.
+---
+
+I am a dedicated and versatile Software Developer with a passion for creating impactful solutions through technology. With over three years of experience, I've honed my skills in building MVC web applications, Python scripting, and ETL processes. My technical toolkit includes proficiency in Python, Java, and client-side JavaScript, along with expertise in a variety of frameworks and tools.
+
+With a strong foundation in both theory and practical application, I thrive in collaborative environments where I can contribute my skills and continue to learn. Let's connect and explore how we can work together!
 
 <br />
 
