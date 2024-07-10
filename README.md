@@ -12,7 +12,7 @@
 
 ---
 
-I am a dedicated and versatile Software Developer with a passion for creating impactful solutions through technology. With over three years of experience, I've honed my skills in building MVC web applications, Python scripting, and ETL processes. My technical toolkit includes proficiency in Python, Java, and client-side JavaScript, along with expertise in a variety of frameworks and tools.
+I am a dedicated and versatile Full Stack Software Engineer with experience in developing and maintaining web applications, automation tools, and data processing systems. I am proficient in multiple programming languages including Python, Java, and JavaScript, and skilled in various frameworks such as React, Next.js, Node, and Flask. I have a proven track record of contributing to open-source projects and creating impactful solutions in both internship and professional settings. I have a strong background in computer science fundamentals and cloud computing, with hands-on experience in AWS services.
 
 With a strong foundation in both theory and practical application, I thrive in collaborative environments where I can contribute my skills and continue to learn. Let's connect and explore how we can work together!
 
