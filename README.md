@@ -5,16 +5,11 @@
   <a href="https://www.linkedin.com/in/jaredscarr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.jaredscarr.com">
-    <img src="https://img.shields.io/badge/jaredscarr.com-B695C0?style=plastic" alt="Personal Website Badge"/>
-  </a>
 </div>
 
 ---
 
-I am a dedicated and versatile Full Stack Software Engineer with experience in developing and maintaining web applications, automation tools, and data processing systems. I am proficient in multiple programming languages including Python, Java, and JavaScript, and skilled in various frameworks such as React, Next.js, Node, and Flask. I have a proven track record of contributing to open-source projects and creating impactful solutions in both internship and professional settings. I have a strong background in computer science fundamentals and cloud computing, with hands-on experience in AWS services.
-
-With a strong foundation in both theory and practical application, I thrive in collaborative environments where I can contribute my skills and continue to learn. Let's connect and explore how we can work together!
+Full stack engineer with range across web applications, data systems, and automation. I can adapt quickly across domains and tech stacks, taking ownership end-to-end. I have shipped production features across healthcare, fintech, transportation, and marketing.
 
 ---
 Languages
